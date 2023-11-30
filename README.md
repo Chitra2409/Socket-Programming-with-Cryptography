@@ -53,10 +53,6 @@ The project's overarching goal is to design, develop, and deploy a secure messag
 1. Implement error handling mechanisms to manage communication disruptions and exceptions.
 2. Ensure secure handling of keys and sensitive data to prevent unauthorized access.
 
-### Testing and Validation
-
-1. Conduct extensive testing to ensure proper functionality of socket communication and cryptography.
-
 ## Application
 
 This secure messaging application can find utility in various domains, including:
