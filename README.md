@@ -77,8 +77,6 @@ This secure messaging application can find utility in various domains, including
 
 - **Research Collaboration**: Researchers and scientists can use secure chat apps to collaborate on research projects, share findings, and discuss sensitive research data.
 
-- **Legal Consultation**: Secure chat applications can facilitate secure communication between lawyers and clients, allowing for confidential discussions and document sharing.
-
 - **Travel and Hospitality**: Travel agencies and hotels can use secure chat apps to communicate securely with customers regarding bookings, reservations, and payment details.
 
 - **Customer Support**: Businesses can provide secure chat support for customers who have concerns about sensitive account information or need assistance with confidential matters.
